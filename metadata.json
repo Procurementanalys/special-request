@@ -1,0 +1,5 @@
+{
+  "name": "Special Request Store Form",
+  "description": "A web application to create and submit special requests for store products, built with React and Tailwind CSS. It allows users to select a store, search for products, add them to a request list with quantity and reason, and submit the form.",
+  "requestFramePermissions": []
+}
